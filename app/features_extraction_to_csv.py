@@ -1,6 +1,6 @@
 """
 @author:赵鸣宇
-@project_name:合肥经济学院考勤系统
+@project_name:考勤系统
 @time:2025/3/09
 @remarks:从人脸图像文件中提取人脸特征
 """

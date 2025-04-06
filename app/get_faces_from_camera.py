@@ -1,6 +1,6 @@
 """
 @author:赵鸣宇
-@project_name:合肥经济学院考勤系统
+@project_name:考勤系统
 @time:2025/3/06
 @remarks:从摄像头获取人脸录入
 """
