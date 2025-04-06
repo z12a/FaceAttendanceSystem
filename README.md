@@ -20,7 +20,6 @@ FaceAttendanceSystem 是一个基于 Python 实现的学生人脸识别考勤系
 ### 环境要求
 
 - Python 3.7
-- pip
 
 ### 安装步骤
 
@@ -86,3 +85,4 @@ FaceAttendanceSystem/
 ## 联系方式
 
 如果有任何问题或建议，请通过 [issues](https://github.com/z12a/FaceAttendanceSystem/issues) 提交。
+觉得好的话点个⭐
